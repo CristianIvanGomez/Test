@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>cat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd90d757-5153-47ae-ab78-6bc3ed1b9f5d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c11bcf5-790b-4c4f-ad32-b7a2614f713c</id>
+      <masked>false</masked>
+      <name>video</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>New Test Data</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>efe3ef6f-8ee4-4432-a870-fbb97a4f85b9</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>C%3A%5CVideos%5CCute+Kittens+Play+in+Ball+Pit.mp4</data>
+   <data>C%3A%5CVideos%5CKittens+and+Babies+Playing+Together+Compilation+%282014%29.mp4</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Video</name>
+      <size>2</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
